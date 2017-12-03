@@ -1,2 +1,0 @@
-# BLEServicesAndClient
-xamarin.android
